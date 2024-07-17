@@ -3,8 +3,6 @@
 
 Welcome to the **AI in Education** repository! This project aims to provide a comprehensive resource hub for both students and teachers to explore the fascinating world of Artificial Intelligence in the context of education. Here, you'll find a wealth of materials including research papers, code, presentations, and more!
 
-![AI in Education]
-
 ## 🚀 Overview
 
 Artificial Intelligence (AI) is transforming education by providing new opportunities for personalized learning, intelligent tutoring systems, and data-driven insights. This repository is designed to support the educational community by offering accessible resources that foster understanding and application of AI in educational settings.
@@ -90,5 +88,3 @@ Have questions or suggestions? Feel free to reach out!
 We hope this repository becomes a valuable resource for you. Happy learning and teaching with AI! 🌟
 
 ---
-
-Feel free to customize this template to better fit the specific contents and style of your repository. Adding images, badges, and interactive elements can further enhance its appeal.
