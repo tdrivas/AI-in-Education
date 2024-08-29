@@ -79,12 +79,22 @@ class ChatGPTClient:
 
 
 if __name__ == "__main__":
+    #################################
+    #   user's parameters to change #
+    #################################
     api_key = "your-api-key"
+
+    # use a loop for extended dialog
+    message1 = "Can you help me explain Waves in Physics?"
+    message2 = "Thanks! Give me now 5 simple exersices for beginners related to Harmonic Wave at a Fixed Position"
+
+    ### end of user's parameters ###
+
     chat_client = ChatGPTClient(api_key)
 
     # just dummy data for our example
     chat_client.append_message("system", "You are a helpful assistant.")
-    chat_client.append_message("user", "Can you help me explain Waves in Physics?")
+    chat_client.append_message("user", message1)
 
     response = chat_client.get_response()
     if response:
@@ -95,7 +105,7 @@ if __name__ == "__main__":
     # another example
     chat_client.append_message(
         "user",
-        "Thanks! Give me now 5 simple exersices for beginners related to Harmonic Wave at a Fixed Position",
+        message2,
     )
     response = chat_client.get_response()
     if response:
