@@ -63,7 +63,7 @@ Get hands-on experience with AI! Our code examples cover a range of topics from 
 
 ## 📊 Presentations
 
-Access ready-to-use presentations and lecture notes designed to introduce AI concepts in an educational setting. Perfect for classroom use! [Explore Presentations](./presentations)
+Access ready-to-use presentations and lecture notes designed to introduce AI concepts in an educational setting. Perfect for classroom use! [Explore Presentations](./Presentations)
 
 ## 📚 Tutorials
 
