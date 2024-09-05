@@ -55,7 +55,7 @@ Artificial Intelligence is reshaping the landscape of education. From personaliz
 
 ## 📄 Research Papers
 
-Delve into our collection of research papers to gain insights into the latest advancements and case studies of AI in education. [Explore Papers](./papers)
+Delve into our collection of research papers to gain insights into the latest advancements and case studies of AI in education. [Explore Papers](./Papers)
 
 ## 💻 Code Examples
 
